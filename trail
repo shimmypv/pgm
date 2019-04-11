@@ -36,3 +36,17 @@ echo "greatest number is:" $num2
 else
 echo "greatest number is:" $num3
 fi
+
+
+#######
+ssh.....
+
+su
+root
+apt-get install openssh-server
+ifconfig
+
+##############
+scp.......
+
+scp -r cev@ip :/home/cev/desktop/file /home/cev/desktop
